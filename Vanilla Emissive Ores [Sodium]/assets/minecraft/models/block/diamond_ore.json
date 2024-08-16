@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_diamond_ore","textures":{"base":"minecraft:block/diamond_ore"}}
+{"parent":"block/template_diamond_ore","textures":{"base":"block/diamond_ore"}}

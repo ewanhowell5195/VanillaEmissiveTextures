@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_diamond_ore","textures":{"base":"minecraft:block/deepslate_diamond_ore"}}
+{"parent":"block/template_diamond_ore","textures":{"base":"block/deepslate_diamond_ore"}}

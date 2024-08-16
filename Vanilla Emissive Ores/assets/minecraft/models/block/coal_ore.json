@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_ore","textures":{"base":"minecraft:block/coal_ore","glow":"minecraft:block/coal_ore_e"}}
+{"parent":"block/template_ore","textures":{"base":"block/coal_ore","glow":"block/coal_ore_e"}}

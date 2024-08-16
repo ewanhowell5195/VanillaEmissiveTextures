@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_ore","textures":{"base":"minecraft:block/redstone_ore","glow":"minecraft:block/redstone_ore_e"}}
+{"parent":"block/template_ore","textures":{"base":"block/redstone_ore","glow":"block/redstone_ore_e"}}

@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_gold_ore","textures":{"base":"minecraft:block/gold_ore"}}
+{"parent":"block/template_gold_ore","textures":{"base":"block/gold_ore"}}

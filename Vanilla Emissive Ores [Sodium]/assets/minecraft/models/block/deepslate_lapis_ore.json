@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_lapis_ore","textures":{"base":"minecraft:block/deepslate_lapis_ore"}}
+{"parent":"block/template_lapis_ore","textures":{"base":"block/deepslate_lapis_ore"}}

@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_nether_gold_ore","textures":{"base":"minecraft:block/nether_gold_ore"}}
+{"parent":"block/template_nether_gold_ore","textures":{"base":"block/nether_gold_ore"}}

@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_emerald_ore","textures":{"base":"minecraft:block/deepslate_emerald_ore"}}
+{"parent":"block/template_emerald_ore","textures":{"base":"block/deepslate_emerald_ore"}}

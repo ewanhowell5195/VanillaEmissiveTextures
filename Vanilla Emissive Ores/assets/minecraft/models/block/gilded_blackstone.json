@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_ore","textures":{"base":"minecraft:block/gilded_blackstone","glow":"minecraft:block/gilded_blackstone_e"}}
+{"parent":"block/template_ore","textures":{"base":"block/gilded_blackstone","glow":"block/gilded_blackstone_e"}}

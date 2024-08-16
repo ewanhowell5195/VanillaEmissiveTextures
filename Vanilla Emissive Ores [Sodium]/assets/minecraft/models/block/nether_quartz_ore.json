@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_nether_quartz_ore","textures":{"base":"minecraft:block/nether_quartz_ore"}}
+{"parent":"block/template_nether_quartz_ore","textures":{"base":"block/nether_quartz_ore"}}

@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_iron_ore","textures":{"base":"minecraft:block/deepslate_iron_ore"}}
+{"parent":"block/template_iron_ore","textures":{"base":"block/deepslate_iron_ore"}}

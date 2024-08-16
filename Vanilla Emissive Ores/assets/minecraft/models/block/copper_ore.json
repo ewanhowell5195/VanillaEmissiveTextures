@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/template_ore","textures":{"base":"minecraft:block/copper_ore","glow":"minecraft:block/copper_ore_e"}}
+{"parent":"block/template_ore","textures":{"base":"block/copper_ore","glow":"block/copper_ore_e"}}
