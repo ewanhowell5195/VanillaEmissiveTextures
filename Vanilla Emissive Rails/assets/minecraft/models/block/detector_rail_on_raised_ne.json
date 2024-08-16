@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:block/template_rail_on_raised_ne",
-  "textures": {
-    "rail": "minecraft:block/detector_rail_on",
-    "glow": "minecraft:block/detector_rail_on_e"
-  }
-}
+{"parent":"block/template_rail_on_raised_ne","textures":{"rail":"block/detector_rail_on","glow":"block/detector_rail_on_e"}}
