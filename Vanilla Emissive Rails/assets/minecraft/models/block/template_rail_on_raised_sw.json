@@ -1,0 +1,28 @@
+{
+	"credit": "By Ewan Howell",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#rail"
+	},
+	"elements": [
+		{
+			"from": [0, 9, 0],
+			"to": [16, 9, 16],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#rail"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#rail"}
+			}
+		},
+		{
+			"from": [0, 9, 0],
+			"to": [16, 9, 16],
+			"light_emission": 15,
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 9, 8], "rescale": true},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#glow"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#glow"}
+			}
+		}
+	]
+}
